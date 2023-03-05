@@ -35,7 +35,6 @@
     "grunt-contrib-watch": "~1.0",
     "grunt-gh-pages": "~2.0",
     "grunt-postcss": "^0.8.0",
-    "grunt-sass": "^2.0",
     "grunt-zip": "~0.17.1",
     "grunt1.0-dom-munger": "~3.4",
     "load-grunt-tasks": "^3.5.2",
